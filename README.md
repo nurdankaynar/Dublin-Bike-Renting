@@ -1,4 +1,4 @@
-# WTECH-AcademyFinalProject
+# Data Analysis on Dublin Bike Rents 
 
 <h4> Bu projde Dublin şehrinin farklı bölgelerinde bulunan bisiklet kiralama istasyonlarının yoğunluğu üzerine bir veri analizi yapılmıştır. Bu istasyonların aynı zaman diliminde ölçülmüş kiralanan bisiklet sayısı ve bisiklet kapasitesi gibi istasyonun özellikleri ele alınarak yoğunluğu etkileyen faktörler (hava durumu, trafik, tatil günleri, vb.) incelenmiştir. </h4>
 
